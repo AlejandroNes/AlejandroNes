@@ -1,21 +1,32 @@
+<div align="center">
+
 Hi, I'm Alejandro 👋
-I'm a software developer from Bolivia, focused on building web and mobile applications that are useful, reliable, and easy to use.
-I work as a freelancer and have collaborated on projects for clients in Mexico, the United States, and the United Kingdom. I enjoy turning ideas into real products, solving problems, and learning something new with every project.
-A little about me
-- 💻 I build web applications, websites, and mobile apps.
-- 🌎 I work with clients and teams across different countries.
-- 🛠️ I like writing maintainable code and creating simple, thoughtful user experiences.
-- 🌱 I'm always exploring new tools and improving my skills.
-- ♟️ When I'm away from the keyboard, you'll probably find me playing chess.
-Technologies I work with
-Web development
-Laravel · PHP · WordPress · React · TypeScript · JavaScript
-Mobile development
-Flutter · Dart
-Databases & tools
-MySQL · SQLite · Git · GitHub
-Open source
-MinIMG — A desktop tool for batch image compression, format conversion, and watermarking.
-I enjoy building practical tools and sharing what I create.
-Let's connect
-Feel free to explore my repositories or reach out if you'd like to collaborate on a project.
+Software Developer · Web & Mobile
+Building useful software, solving real problems, and learning something new along the way.
+📍 Bolivia  ·  🌎 Working with clients in Mexico, the US & the UK
+GitHub Profile · Featured Project: MinIMG
+</div>
+
+👨‍💻 About me
+I'm a software developer who enjoys turning ideas into websites, web platforms, and mobile apps that people actually use. I work as a freelancer on projects for clients in Mexico, the United States, and the United Kingdom.
+I like keeping things simple, writing maintainable code, and paying attention to the small details that make software easier to use.
+When I'm not coding, you'll probably find me playing chess. ♟️
+🛠️ Tech stack
+Area	Technologies
+Web & backend	Laravel · PHP · WordPress · MySQL
+Frontend	React · TypeScript · JavaScript
+Mobile	Flutter · Dart
+Tools	Git · GitHub · VS Code
+
+
+🚀 Featured project
+MinIMG
+An open-source desktop app for batch image compression, format conversion, and watermarking.
+- Compress and convert multiple images in one go.
+- Add watermarks to batches of images.
+- Built to make everyday image workflows easier.
+Explore MinIMG →
+<div align="center">
+
+Keep learning. Keep building. ♟️
+</div>
